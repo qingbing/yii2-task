@@ -1,15 +1,15 @@
 {
   "name": "qingbing/yii2-task",
-  "description": "yii实现的url短链系统",
+  "description": "yii2实现的任务管理系统组件",
   "type": "library",
   "license": "MIT",
   "keywords": [
     "php",
     "yii",
-    "url",
+    "yii2",
     "crontab",
     "task",
-    "yii-task"
+    "yii2-task"
   ],
   "homepage": "http://www.phpcorner.net",
   "authors": [
